@@ -38,6 +38,6 @@ As a major supplier to leading **Oil Companies** and **Supermarkets**, Berrys Te
 ---
 
 ### Contact Us
-For more information, visit our [website](https://www.berrys-technologies.com) or reach out to us for inquiries!
+For more information, visit our  [website](https://www.berrys-technologies.com)  [website USA](https://berrysus.com) or reach out to us for inquiries!
 
 ---
