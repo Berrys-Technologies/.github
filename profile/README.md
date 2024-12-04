@@ -32,6 +32,7 @@ Bluetooth fuel delivery status and mis-fuel prevention is sent via the Midas Lin
 As a major supplier to leading **Oil Companies** and **Supermarkets**, Berrys Technologies Limited is well-equipped to serve the market throughout:
 - The **UK**
 - **Europe**
+- **USA**
 - And **beyond!**
 
 ---
