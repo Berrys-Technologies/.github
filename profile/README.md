@@ -21,9 +21,10 @@ These are fully supported by a selection of **world-class products** from:
 The powerfull mis-fuel prevention systems
 - **Midas-2**
 - **Midas Link**
-The MIDAS 2, the industry leader in mis-fuel prevention, acting as the last line of defence in the fuel delivery process.
+  
+MIDAS 2 is the industry leader in mis-fuel prevention, acting as the last line of defence in the fuel delivery process.
 The 16-character LCD screen is programmed to give the driver detailed instruction as to what stage of the delivery is at.
-Bluetooth fuel delivery status and mis-fuel prevention is sent via the Midas Link to be accessed online via a web portal.
+Bluetooth fuel delivery status and mis-fuel prevention is sent via the Midas Link to be accessed online via our web portal.
 
 ---
 
